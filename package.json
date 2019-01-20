@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shankstee.github.io/Click-Game",
+  "homepage": "https://kyleconyers.github.io/clicky-game/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "create-react-app": "^2.1.3",
