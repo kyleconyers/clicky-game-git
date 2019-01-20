@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "one",
+        "img": "./assets/img/one.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "two",
+        "img": "./assets/img/two.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "three",
+        "img": "./assets/img/three.jpg",
+        "clicked": false
+
+    },
+    {
+        "id": 4,
+        "name": "four",
+        "img": "./assets/img/four.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "five",
+        "img": "./assets/img/five.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "six",
+        "img": "./assets/img/six.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "seven",
+        "img": "./assets/img/seven.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "eight",
+        "img": "./assets/img/eight.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "nine",
+        "img": "./assets/img/nine.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "ten",
+        "img": "./assets/img/ten.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "eleven",
+        "img": "./assets/img/eleven.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "twelve",
+        "img": "./assets/img/twelve.png",
+        "clicked": false
+    }
+]
